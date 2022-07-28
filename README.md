@@ -1,6 +1,6 @@
 
-<div align="center"> 👋 Hi, I’m DOYUN KIM </div>
-<div align="center"> 👀 I’m interested in Data Analytics, Machine Learning & Deep Learning </div>
+<h3 align="center"> 👋 Hi, I’m DOYUN KIM </h3>
+<h3 align="center"> 👀 I’m interested in Data Analytics, Machine Learning & Deep Learning </h3>
 
 <br>
 <h3 align = "center"> 💻 Tech Stacks 💻 </h3>
